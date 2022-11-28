@@ -14,10 +14,10 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: jekyll-theme-potato-hacker
-author: "<your_name>"
-email: "<your@mail>"
+author: "<Seo-Donghyun>"
+email: "<peterpan1103@kookmin.ac.kr>"
 description: A simple Jekyll theme based on potatoes and hackers
-baseurl: "/jekyll-theme-potato-hacker" # the subpath of your site, e.g. /blog
+# baseurl: "/jekyll-theme-potato-hacker" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
 # ------------------------------------------------------------------------------
