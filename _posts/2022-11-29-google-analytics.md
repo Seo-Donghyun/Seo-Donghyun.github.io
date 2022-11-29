@@ -6,15 +6,16 @@ comments: true
 
 ## 구글 애널리틱스([Google Analytics](https://www.google.com/analytics/web/?hl=ko))
 
-이번에 github 블로그 특강을 받았을 때, google analytics가 있었습니다.
+이번에 github 블로그 특강을 받았을 때, google analytics가 있었습니다.   
 구글 애널리틱스는 웹사이트 트래픽을 추적하고 보고하는 구글이 제공하는 웹 애널리틱스 서비스입니다. 말 그대로 제가 설정한 사이트에 대해서 방문자 수, 어떤 페이지가 인기 있는지, 시간별로 사용자 수는 어떤지 등등 분석한 자료를 볼 수 있는 서비스입니다.
 
 ## 적용하는 과정
 1. 계정 생성
 [구글 애널리틱스 공식 사이트](https://www.google.com/analytics/web/?hl=ko)에서 계정을 생성합니다. 생성하면서 계정 이름, 사이트 주소를 정확히 입력해야합니다. **그런데 여기서 주의할 점!!!** 구글 애널리틱스에서 추적(측정)코드에 따라 두 가지 종류가 있습니다.
   * 유니버설 애널리틱스(UA) : 코드가 `UA`로 시작함
-  * Google 애널리틱스 4(GA4) : 코드가 `G`로 시작함
-두 가지의 차이점은 [구글 애널리틱스 도움말](https://support.google.com/analytics/answer/9964640?hl=ko#zippy=%2C%EC%9D%B4-%EB%8F%84%EC%9B%80%EB%A7%90%EC%97%90%EC%84%9C%EB%8A%94-%EB%8B%A4%EC%9D%8C-%EB%82%B4%EC%9A%A9%EC%9D%84-%EB%8B%A4%EB%A3%B9%EB%8B%88%EB%8B%A4) 에서 볼 수 있습니다.
+  * Google 애널리틱스 4(GA4) : 코드가 `G`로 시작함   
+
+두 가지의 차이점은 [구글 애널리틱스 도움말](https://support.google.com/analytics/answer/9964640?hl=ko#zippy=%2C%EC%9D%B4-%EB%8F%84%EC%9B%80%EB%A7%90%EC%97%90%EC%84%9C%EB%8A%94-%EB%8B%A4%EC%9D%8C-%EB%82%B4%EC%9A%A9%EC%9D%84-%EB%8B%A4%EB%A3%B9%EB%8B%88%EB%8B%A4) 에서 볼 수 있습니다.   
 또한 Google 애널리틱스 4(GA4)가 상대적으로 최신 기술인데, 이 때문인지 기존의 UA코드를 GA4로 강제로 바꾸어버리는 일도 있었습니다. 그러나 기업이나 단체에 따라 UA를 사용하는 것도 있을 수 있습니다. 그래서 본인 필요에 따라 UA를 할지 GA4를 할지 정하면 됩니다. GA4를 하면 그냥 계정 생성을 하면 되지만, UA를 하고 싶으면 계정 생성 페이지에서 사이트 주고, 국가를 정하는 곳이 있습니다. 거기에서 고급 설정에 가면 UA를 사용할 수 있습니다.
 
 2. 적용
