@@ -6,8 +6,7 @@ comments: true
 
 ## Git, Github에 대하여
 
-- [Git](https://git-scm.com/book/ko/v2/%EC%8B%9C%EC%9E%91%ED%95%98%EA%B8%B0-%EB%B2%84%EC%A0%84-%EA%B4%80%EB%A6%AC%EB%9E%80%3F)
-Git은 2005년에 리누스 토르발스가 처음으로 개발한 **분산 버전 관리 시스템**입니다.
+- [Git](https://git-scm.com/book/ko/v2/%EC%8B%9C%EC%9E%91%ED%95%98%EA%B8%B0-%EB%B2%84%EC%A0%84-%EA%B4%80%EB%A6%AC%EB%9E%80%3F)은 2005년에 리누스 토르발스가 처음으로 개발한 **분산 버전 관리 시스템**입니다.
 
 그렇다면 분산 버전 관리 시스템은 무엇일까요?
 1. 버전 관리의 필요성
@@ -30,8 +29,7 @@ Git을 사용하면 이러한 장점을 얻을 수 있습니다.
 * 개인 프로젝트여도 체계적인 개발이 가능하고, 다른 사람들에게 프로그램을 더 쉽게 배포할 수 있습니다.
 등등 여러 장점이 있습니다.
 
-- [Github](https://git-scm.com/book/ko/v2/GitHub-%EA%B3%84%EC%A0%95-%EB%A7%8C%EB%93%A4%EA%B3%A0-%EC%84%A4%EC%A0%95%ED%95%98%EA%B8%B0)
-Github는 Git에서 사용하는 웹 호스팅 서비스입니다.
+- [Github](https://git-scm.com/book/ko/v2/GitHub-%EA%B3%84%EC%A0%95-%EB%A7%8C%EB%93%A4%EA%B3%A0-%EC%84%A4%EC%A0%95%ED%95%98%EA%B8%B0)는 Git에서 사용하는 웹 호스팅 서비스입니다.
 두 관계를 예시로 들면, Git은 게임에서 싱글플레이입니다.
 그런데 Github는 다른 사람과 상호작용 할 수 있습니다.
 
@@ -47,4 +45,4 @@ Github는 Git에서 사용하는 웹 호스팅 서비스입니다.
 * `git add <파일이름>` : 여기에 표시된 파일들은 staging 되고, **git에서 그 파일들을 추적 할 수 있습니다.**
 * `git commit "메세지"` : staging 된 파일들을 고치고 **로컬 저장소에 수정 내역을 반영합니다.**
 * `git push` : commit으로 로컬저장소에 반영한 수정 내역을 **github에 반영합니다.**
-* `git pull` : 원격 저장소에 수정내역을 로컬저장소에 반영합니다.
+* `git pull` : 원격 저장소의 수정내역을 로컬저장소에 반영합니다.
