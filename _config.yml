@@ -1,7 +1,7 @@
 # Setup
 title:               Seo-Donghyun's blog
 tagline:             'git blog'
-description:         'A reserved <a href="https://jekyllrb.com" target="_blank">Jekyll</a> theme that places the utmost gravity on content with a hidden drawer. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
+description:         ''
 url:                 https://seo-donghyun.github.io/
 # baseurl:             ''
 paginate:            5
