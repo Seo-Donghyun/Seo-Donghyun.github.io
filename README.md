@@ -139,12 +139,12 @@ Open sourced under the [MIT license](LICENSE.md).
 
 ## 목차
 
-- [Repository 생성](#repository 생성)
-- [로컬 저장소와 연동](#로컬 저장소 연동)
+- [Repository 생성](#repository-생성)
+- [로컬 저장소와 연동](#로컬-저장소와-연동)
 - [jekyll](#jekyll)
-  - [컴퓨터에 설치](#컴퓨터 설치)
-- [테마 가져오기](#테마)
-- [git에 연동](#git 연동)
+  - [컴퓨터에 설치](#컴퓨터에-설치)
+- [테마 가져오기](#테마-가져오기)
+- [git에 연동](#git에-연동)
 - [완료](#완료)
 
 ## repository 생성
