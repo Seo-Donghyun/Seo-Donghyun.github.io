@@ -43,4 +43,4 @@ Git을 사용하면 위와 같은 장점을 얻을 수 있습니다.
     * `git commit "메세지"` : staging 된 파일들을 고치고 **로컬 저장소에 수정 내역을 반영합니다.**
     * `git push` : commit으로 로컬저장소에 반영한 수정 내역을 **github에 반영합니다.**
     * `git pull` : 원격 저장소의 수정내역을 로컬저장소에 반영합니다.
-![git](/assets/images/post1.png "git")
+![git](/assets/images/gitpost1.png "git")
