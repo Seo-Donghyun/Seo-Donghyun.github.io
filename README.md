@@ -34,7 +34,7 @@ jekyll은 [jekyll 사이트](https://jekyllrb-ko.github.io/)에서 설치합니�
 
 ## 테마 가져오기
 
-저 같은 경우에는 아무 post를 적지 않은 상태에서 테마를 가져오기 위해, 제가 원한 테마인 [lanyon](https://github.com/poole/lanyon)의 zip파일을 다운 받아서 로컬 저장소에 저장했습니다. 
+저 같은 경우에는 아무 post를 적지 않은 상태에서 테마를 가져오기 위해, 제가 원한 테마인 [lanyon](https://github.com/poole/lanyon)의 파일들을 로컬 저장소에 덮어씌웠습니다. 
 ![예시](/assets/images/readme.md%20%EC%82%AC%EC%A7%841.png "예시")
 
 ## git에 연동
