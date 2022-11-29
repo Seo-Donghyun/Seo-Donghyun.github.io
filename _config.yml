@@ -1,7 +1,9 @@
 # Setup
 title:               Seo-Donghyun's blog
 tagline:             'git blog'
-description:         ''
+description:         'name : Seo-Donghyun
+email : peterpan1103@kookmin.ac.kr
+안녕하세요. 방문해주셔서 감사합니다.'
 url:                 https://seo-donghyun.github.io/
 # baseurl:             ''
 paginate:            5
